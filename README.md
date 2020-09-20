@@ -10,6 +10,6 @@ Checkout my CV [here](https://github.com/ZeynaliAli/home/blob/master/files/Ali_Z
 
 
 ## **Contact me:** 
-a + \[my last name \] at umass dot edu 
+"a" + \[my last name \] at umass dot edu 
 
 
