@@ -1,16 +1,28 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
-  <head>
+<head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-{% seo %}
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom fonts for this template -->
+    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet"
+          type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Cabin:700' rel='stylesheet' type='text/css'>
+
+    <!-- Custom styles for this template
+    <link href="css/grayscale.min.css" rel="stylesheet">-->
+
+
+    {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
-  </head>
+</head>
   <body>
     <div class="wrapper">
       <header>
@@ -21,7 +33,11 @@
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-
+        <ul class="list-inline banner-social-buttons">
+            <li class="list-inline-item"><a href="{{ site.github.zip_url }}" class="btn btn-default btn-lg"> <i class="fa fa-gitlab fa-fw"> </i> <span class="network-name"> Gitlab</span> </a></li>
+            <li class="list-inline-item"><a href="{{ site.github.zip_url }}" class="btn btn-default btn-lg"> <i class="fa fa-linkedin fa-fw"> </i> <span class="network-name"> LinkedIn</span> </a></li>
+            <li class="list-inline-item"><a href="{{ site.github.zip_url }}" class="btn btn-default btn-lg"> <i class="fa fa-google fa-fw"> </i> <span class="network-name"> Google</span> </a></li>
+        </ul>
         {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
