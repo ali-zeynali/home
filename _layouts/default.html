@@ -6,18 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 
+    <link rel="stylesheet" href="../assets/css/social-circles.min.css">
 
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-
-    <!-- Custom fonts for this template -->
-    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <link href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet"
-          type="text/css">
-    <link href='https://fonts.googleapis.com/css?family=Cabin:700' rel='stylesheet' type='text/css'>
-
-    <!-- Custom styles for this template
-    <link href="css/grayscale.min.css" rel="stylesheet">-->
     {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
@@ -35,9 +25,11 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         <ul class="list-inline banner-social-buttons">
-            <li class="list-inline-item"><a href="{{ site.github.zip_url }}" class="btn btn-default btn-lg"> <i class="fa fa-gitlab fa-fw"> </i> <span class="network-name"> Gitlab</span> </a></li>
-            <li class="list-inline-item"><a href="{{ site.github.zip_url }}" class="btn btn-default btn-lg"> <i class="fa fa-linkedin fa-fw"> </i> <span class="network-name"> LinkedIn</span> </a></li>
-            <li class="list-inline-item"><a href="{{ site.github.zip_url }}" class="btn btn-default btn-lg"> <i class="fa fa-google fa-fw"> </i> <span class="network-name"> Google</span> </a></li>
+
+            <li class="list-inline-item"><a class="icon-facebook social-button color" href="http://twitter.com/username"></a></li>
+            <li class="list-inline-item"><a class="icon-twitter social-button color" href="http://twitter.com/username"></a></li>
+            <li class="list-inline-item"><a class="icon-github social-button color" href="http://twitter.com/username"></a></li>
+            <!-- <li class="list-inline-item"><a href="{{ site.github.zip_url }}" class="btn btn-default btn-lg"> <i class="fa fa-google fa-fw"> </i> <span class="network-name"> Google</span> </a></li>-->
         </ul>
         {% if site.show_downloads %}
         <ul class="downloads">
