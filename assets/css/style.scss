@@ -2,8 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
-@import url(“social-cricles.css”);
-@import url(“social-cricles.min.css”);
+@import 'social-cricles.css';
+@import 'social-cricles.min.css';
 
 
 body {
