@@ -7,7 +7,8 @@ Checkout my CV [here](https://github.com/ZeynaliAli/home/blob/master/files/Ali_Z
 ## **Research Area**
 * Online Learning Algorithms
 * Online Optimization
-* 
+
+
 ## **Publications**
 *   Competitive Algorithms for the Online Multiple KnapsackProblem with Application to Electric Vehicle Charging [ACM SIGMETRICS 2020]
 *   More is coming soon ...
