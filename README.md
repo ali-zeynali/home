@@ -6,7 +6,7 @@ Checkout my CV [here](https://github.com/ZeynaliAli/home/blob/master/files/Ali_Z
 
 ## **Research Area**
 * Online Learning Algorithms
-* Online Optimization
+* Algorithm Optimization
 
 
 ## **Publications**
