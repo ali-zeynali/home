@@ -10,6 +10,7 @@ Checkout my CV [here](https://github.com/ZeynaliAli/home/blob/master/files/Ali_Z
 
 
 ## **Publications**
+*	Data-driven Competitive Algorithms for Online Knapsack and Set Cover [AAAI 2021]
 *   Competitive Algorithms for the Online Multiple KnapsackProblem with Application to Electric Vehicle Charging [ACM SIGMETRICS 2020]
 *   More is coming soon ...
 
