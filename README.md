@@ -8,7 +8,7 @@ Checkout my CV [here](https://github.com/ZeynaliAli/home/blob/master/files/Ali_Z
 * Online Learning Algorithms
 * Algorithm Optimization
 
-## **Work Experiences**
+## **Employment**
 * **Machine Learning and Data Science** researcher, Research intern, Adobe, Summer 2021
 
 ## **Publications**
