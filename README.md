@@ -9,7 +9,8 @@ Checkout my CV [here](https://github.com/ZeynaliAli/home/blob/master/files/Ali_Z
 * Algorithm Optimization
 
 ## **Employment**
-* **Machine Learning and Data Science** researcher, Research intern, Adobe, Summer 2021
+* **Software Engineer**, Intern, Google LLC., Mountain View, USA, Spring 2022
+* **Machine Learning and Data Science** researcher, Research intern, Adobe, San Jose, USA, Summer 2021
 
 ## **Publications**
 *	**Data-driven Competitive Algorithms for Online Knapsack and Set Cover [AAAI 2021]**
