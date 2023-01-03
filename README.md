@@ -13,7 +13,7 @@ Checkout my CV [here](https://github.com/ZeynaliAli/home/blob/master/files/Ali_Z
 * **Machine Learning and Data Science Researcher** , Research intern, Adobe, San Jose, USA, Summer 2021
 
 ## **Publications**
-*   **SemEval-2022 Task 8: Multilingual news article similarity [SemEval 2022][[PDF]](https://ali-zeynali.github.io/SemEval_2022Task8_MultilingualNewsArticleSimilarity.pdf)** 
+*   **SemEval-2022 Task 8: Multilingual news article similarity [SemEval 2022] [[PDF]](https://ali-zeynali.github.io/SemEval_2022Task8_MultilingualNewsArticleSimilarity.pdf)** 
 
 	*Xi Chen, Ali Zeynali, Chico Camargo, Fabian Flock, Devin Gaffney, Przemyslaw Grabowicz, Scott Hale, David Jurgens, Mattia Samory*
 	
