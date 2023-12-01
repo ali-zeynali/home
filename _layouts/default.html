@@ -17,7 +17,7 @@
 </head>
   <body>
     <div class="wrapper">
-      <header>
+      <header style="position: relative;">
         <h1 style="font-size:40px; color:white;">{{ site.title | default: site.github.repository_name }}</h1>
         
         {% if site.logo %}
@@ -43,12 +43,12 @@
         </ul>
         {% endif %}
       </header>
-      <section style="font-size:18px;">
+      <section style="font-size:18px; width: 100%; margin-bottom: 5%;">
 
       {{ content }}
 
       </section>
-      <footer>
+      <footer style="position: relative; top-margin: 50%;">
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
