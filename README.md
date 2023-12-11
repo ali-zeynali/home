@@ -48,12 +48,15 @@ Checkout my CV [here](https://github.com/ZeynaliAli/home/blob/master/files/Ali_Z
 
 ## **Selected Projects**
 * **VSE360: Online 360-degree video streaming simulation evironment [[Github]](https://github.com/ali-zeynali/Bola360)** 
+
     *Fully simulated python environment to evaluate 360-degree ABR algorithms*
 
 * **AI-Generated Music using Deep Learning + LSTM [[Github]](https://github.com/ali-zeynali/MusicGen)** 
+
     *Generating music using deep learning techniques, and LSTM networks*
 
 * **ZeySed: Deep neural networks for leave classification [[Github]](https://github.com/ali-zeynali/ZeySed)** 
+
     *Classifying image of leaves using deep neural networks*
 
 
