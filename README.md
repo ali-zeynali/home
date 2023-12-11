@@ -51,10 +51,14 @@ Checkout my CV [here](https://ali-zeynali.github.io/home/files/Ali_Zeynali_CV.pd
 
     *Fully simulated python environment to evaluate 360-degree ABR algorithms*
 
-* **AI-Generated Music using Deep Learning + LSTM [[Github]](https://github.com/ali-zeynali/MusicGen)** 
+* **AI-Generated music using Deep Learning + LSTM [[Github]](https://github.com/ali-zeynali/MusicGen)** 
 
     *Generating music using deep learning techniques, and LSTM networks*
 
+* **AI-Generated short stories using bidirectional LSTM [[Github]](https://github.com/ali-zeynali/ShortStoryGenerator)** 
+
+    *Generating short/tiny stories with deep LSTM*
+    
 * **ZeySed: Deep neural networks for leave classification [[Github]](https://github.com/ali-zeynali/ZeySed)** 
 
     *Classifying image of leaves using deep neural networks*
