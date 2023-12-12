@@ -2,14 +2,14 @@
 ---
 
 @import "{{ site.theme }}";
+.inner {
+  max-width: 90%;
+}
 @import 'social-cricles.css';
 @import 'social-cricles.min.css';
 @import 'font-awesome.min.css';
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,600,600italic');
 
-.inner {
-  max-width: 90%;
-}
 
 body {
 background-color: #29303d;
