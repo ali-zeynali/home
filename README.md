@@ -55,7 +55,7 @@ Checkout my CV [here](https://ali-zeynali.github.io/home/files/Ali_Zeynali_CV.pd
 </p>
 
 <p align="center">
-<img src="figures/VSE/bandwidth1.png" width="350">
+<img src="files/VSE/bandwidth1.png" width="350">
 </p>
 
 
