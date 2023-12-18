@@ -47,7 +47,7 @@ Checkout my CV [here](https://ali-zeynali.github.io/home/files/Ali_Zeynali_CV.pd
     *Bo Sun, Ali Zeynali, Tongxin Li, Mohammad Hajiesmaili, Adam Wierman, Danny H.K. Tsang*
 
 ## **Selected Projects**
-* **VSE360: Online 360-degree video streaming simulation evironment [[Github]](https://github.com/ali-zeynali/Bola360)** 
+* **VSE360: Online 360-degree video streaming simulation evironment [[Github]](https://github.com/ali-zeynali/VSE360)** 
 
     *Fully simulated python environment to evaluate 360-degree ABR algorithms*
 
