@@ -68,6 +68,10 @@ Checkout my CV [here](https://ali-zeynali.github.io/home/files/Ali_Zeynali_CV.pd
 
     *Generating short/tiny stories with deep LSTM*
     
+<p align="center">
+<img src="files/LSTM/Bi-LSTM.png" width="350">
+</p>
+
 * **ZeySed: Deep neural networks for leave classification [[Github]](https://github.com/ali-zeynali/ZeySed)** 
 
     *Classifying image of leaves using deep neural networks*
