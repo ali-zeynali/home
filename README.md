@@ -51,8 +51,11 @@ Checkout my CV [here](https://ali-zeynali.github.io/home/files/Ali_Zeynali_CV.pd
     *Fully simulated python environment to evaluate 360-degree ABR algorithms*
 
 <p align="center">
-<img src="files/VSE/360_1.png" width="350" height="225">
-<img src="figures/VSE/bandwidth1.png" width="350" height="225">
+<img src="files/VSE/360_1.png" width="350">
+</p>
+
+<p align="center">
+<img src="figures/VSE/bandwidth1.png" width="350">
 </p>
 
 
