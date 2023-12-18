@@ -68,6 +68,12 @@ Checkout my CV [here](https://ali-zeynali.github.io/home/files/Ali_Zeynali_CV.pd
 
     *Classifying image of leaves using deep neural networks*
 
+<p align="center">
+<img src="files/ZeySed/classes.png" width="500">
+</p>
+<p align="center">
+<img src="files/ZeySed/model.png" width="500">
+</p>
 
 
 ## **Contact me:** 
