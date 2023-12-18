@@ -60,6 +60,10 @@ Checkout my CV [here](https://ali-zeynali.github.io/home/files/Ali_Zeynali_CV.pd
 
     *Generating music using deep learning techniques, and LSTM networks*
 
+<p align="center">
+<img src="files/LSTM/LSTM_Cell.png" width="350">
+</p>
+
 * **AI-Generated short stories using bidirectional LSTM [[Github]](https://github.com/ali-zeynali/ShortStoryGenerator)** 
 
     *Generating short/tiny stories with deep LSTM*
