@@ -5,13 +5,16 @@ I am a Ph.D. student of [Computer Science at the University of Massachusetts, Am
 Checkout my CV [here](https://ali-zeynali.github.io/home/files/Ali_Zeynali_CV.pdf)
 
 ## **Research Area**
-* Online decision making
-* Algorithm Optimization
+* Online learning - Online decision making
+* Online optimization
 * Machine learning applications in multimedia
+* Responsible AI
 
 ## **Employment**
 * **Software Engineer** Intern, Google LLC., Mountain View, USA, Spring 2022
+    - Developed a highly accurate model to address the interest matching points problem by employing image processing and machine learning techniques, including depth detection, and image perspective detection/modification. Successfully enhanced the performance of SOTA models by up to $50\%$ with the final implementation.
 * **Machine Learning and Data Science Researcher** , Research intern, Adobe, San Jose, USA, Summer 2021
+    - Focused on enhancing user experience by optimizing PDF file interactions in liquid-mode, ensuring seamless performance in both offline and online streaming modes.
 
 ## **Publications**
 *   **Robust Learning-Augmented Dictionaries [Under Submission]**
