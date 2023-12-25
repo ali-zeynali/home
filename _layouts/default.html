@@ -16,7 +16,11 @@
     <![endif]-->
 </head>
   <body>
-    <div class="wrapper" style="font-size: inherit !important;">
+    <div class="wrapper" <style>
+        .wrapper :not(a):hover {
+            font-size: initial !important; /* or font-size: unset !important; */
+        }
+    </style>>
       <header style="position: relative;">
         <h1 style="font-size:40px; color:white;">{{ site.title | default: site.github.repository_name }}</h1>
         
