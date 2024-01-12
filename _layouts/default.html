@@ -13,6 +13,18 @@
 	<script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+	<style>
+        /* Add this style block for custom styling */
+        .mysocial-icons {
+            display: flex; /* Use flexbox for horizontal alignment */
+        }
+
+        .mysocial-icons a {
+            text-decoration: none; /* Remove underlines for links */
+            color: #333; /* Set the color of the icons */
+            margin-right: 20px; /* Adjust the right margin to create space between icons */
+        }
+    </style>
 	
     <![endif]-->
 </head>
@@ -26,8 +38,11 @@
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-		<a href="https://github.com/ali-zeynali" target="_blank"><i class="fa fa-github fa-4x" style="font-size:36px"></i></a>
+		<div classs="mysocial-icons">
+		<a href="https://github.com/ali-zeynali" target="_blank"><i class="fa fa-github fa-4x"></i></a>
 		<a href="https://www.linkedin.com/in/ali-zeynali/" target="_blank"><i class="fa fa-linkedin fa-4x"></i></a>
+		</div>
+		
 			
           <!--
         <ul class="icons">
