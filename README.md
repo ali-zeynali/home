@@ -87,6 +87,20 @@ Checkout my CV [here](https://ali-zeynali.github.io/home/files/Ali_Zeynali_CV.pd
 <img src="files/ZeySed/model.png" width="500">
 </p>
 
+## **Honors and Awards:** 
+
+* Thesis Proposal Writing Fellowship Award; Fall 2023 - University of Massachusetts, Amherst
+
+* Donald F. Towsley Graduate Scholarship; Summer 2021 - University of Massachusetts, Amherst
+
+* Ranked in Top-Ten BSc. students of computer engineering, class of 2019 (among 177 students)
+
+* Rank 24 of 10th IEEEXTREME, 24-hours programming contest among 1823 teams; Fall 2016
+
+* Golden Medalist of 8th International Olympiad IOAA (among more than 200 international students); Summer 2014 - Romania
+
+* Golden Medalist of 9th National Science Olympiad NOAA (among more than 5,000 students); Summer 2013
+
 
 ## **Contact me:** 
 "a" + \[my last name \] at umass dot edu 
