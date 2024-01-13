@@ -11,9 +11,9 @@ Checkout my CV [here](https://ali-zeynali.github.io/home/files/Ali_Zeynali_CV.pd
 * Responsible AI
 
 ## **Employment**
-* **<i class="fa-brands fa-google fa-2x" style="margin-right: 20px;"></i>Software Engineer** Intern, Google LLC., Mountain View, USA, Spring 2022
+* **Software Engineer** Intern, Google LLC., Mountain View, USA, Spring 2022
     - Developed a highly accurate model to address the interest matching points problem by employing image processing and machine learning techniques, including depth detection, and image perspective detection/modification. Successfully enhanced the performance of SOTA models by up to 50% with the final implementation.
-* **<i class="fa-solid fa-file-pdf fa-2x" style="margin-right: 20px;"></i>Machine Learning and Data Science Researcher** , Research intern, Adobe, San Jose, USA, Summer 2021
+* **Machine Learning and Data Science Researcher** , Research intern, Adobe, San Jose, USA, Summer 2021
     - Focused on enhancing user experience by optimizing PDF file interactions in liquid-mode, ensuring seamless performance in both offline and online streaming modes.
 
 ## **Publications**
