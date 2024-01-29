@@ -17,11 +17,11 @@ Checkout my CV [here](https://ali-zeynali.github.io/home/files/Ali_Zeynali_CV.pd
     - Focused on enhancing user experience by optimizing PDF file interactions in liquid-mode, ensuring seamless performance in both offline and online streaming modes.
 
 ## **Publications**
-*   **Robust Learning-Augmented Dictionaries [Under Submission]**
+*   **Robust Learning-Augmented Dictionaries [Under review]**
 
     *Ali Zeynali, Shahin Kamali, Mohammad Hajiesmaili*
     
-*   **BOLA360: Near-optimal View and Bitrate Adaptation for 360-degree Video Streaming [Under Review] [[PDF]](https://ali-zeynali.github.io/BOLA360.pdf)**
+*   **BOLA360: Near-optimal View and Bitrate Adaptation for 360-degree Video Streaming [ACM MMSys 2024] [[PDF]](https://ali-zeynali.github.io/BOLA360.pdf)**
 
     *Ali Zeynali, Mohammad Hajiesmaili, Ramesh Sitaraman*
 	
