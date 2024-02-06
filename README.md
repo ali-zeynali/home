@@ -91,6 +91,8 @@ Checkout my CV [here](https://ali-zeynali.github.io/home/files/Ali_Zeynali_CV.pd
 
 * Thesis Proposal Writing Fellowship Award; Fall 2023 - University of Massachusetts, Amherst
 
+* Nominated for the Microsoft Research Fellowship by the CICS Department; Summer 2021 - University of Massachusetts, Amherst
+
 * Donald F. Towsley Graduate Scholarship; Summer 2021 - University of Massachusetts, Amherst
 
 * Ranked in Top-Ten BSc. students of computer engineering, class of 2019 (among 177 students)
