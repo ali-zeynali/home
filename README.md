@@ -17,7 +17,7 @@ Checkout my CV [here](https://ali-zeynali.github.io/home/files/CV_Ali_Zeynali.pd
     - Focused on enhancing user experience by optimizing PDF file interactions in liquid-mode, ensuring seamless performance in both offline and online streaming modes.
 
 ## **Publications**
-*   **Robust Learning-Augmented Dictionaries [Under review] [[PDF]](https://ali-zeynali.github.io/RobustSL.pdf)**
+*   **Robust Learning-Augmented Dictionaries [ICML 2024] [[PDF]](https://ali-zeynali.github.io/RobustSL.pdf)**
 
     *Ali Zeynali, Shahin Kamali, Mohammad Hajiesmaili*
     
