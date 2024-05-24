@@ -25,7 +25,7 @@ Checkout my CV [here](https://ali-zeynali.github.io/home/files/CV_Ali_Zeynali.pd
 
     *Ali Zeynali, Mohammad Hajiesmaili, Ramesh Sitaraman*
 	
-* **A Holistic Approach for Equity-aware Carbon Reduction of Ridesharing Platforms [e-Energy 2024] [[PDF]](https://ali-zeynali.github.io/AHolisticApproach-CarbonEmission.pdf)**
+* **A Holistic Approach for Equity-aware Carbon Reduction of Ridesharing Platforms [ACM e-Energy 2024] [[PDF]](https://ali-zeynali.github.io/AHolisticApproach-CarbonEmission.pdf)**
 
     *Mahsa Sahebdel, Ali Zeynali, Noman Bashir, Prashant Shenoy, Mohammad Hajiesmaili*
     
