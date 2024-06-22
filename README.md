@@ -1,5 +1,5 @@
 # **Biography**
-I am a Ph.D. student of [Computer Science at the University of Massachusetts, Amherst](https://www.cics.umass.edu/). I do my research under the supervision of [Prof. Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/) and [Ramesh K. Sitaraman](https://groups.cs.umass.edu/ramesh/lids-lab/) (co-adivsors). I received my master's degree from UMass with grade 4.0/4.0. Before joining UMass, I received my B.Sc. degree at the department of Computer Engineering at the Sharif University of Technology. Prof. [Ali Sharifi-Zarchi](http://ce.sharif.edu/faculty/ali-sharifi-zarchi/) was my advisor. 
+I am a Ph.D. student of [Computer Science at the University of Massachusetts, Amherst](https://www.cics.umass.edu/). I do my research under the supervision of Prof. [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/) and [Ramesh K. Sitaraman](https://groups.cs.umass.edu/ramesh/lids-lab/) (co-adivsors). I received my master's degree from UMass with grade 4.0/4.0. Before joining UMass, I received my B.Sc. degree at the department of Computer Engineering at the Sharif University of Technology. Prof. Ali Sharifi-Zarchi was my advisor. 
 
 
 Checkout my CV [here](https://ali-zeynali.github.io/home/files/CV_Ali_Zeynali.pdf)
@@ -8,9 +8,10 @@ Checkout my CV [here](https://ali-zeynali.github.io/home/files/CV_Ali_Zeynali.pd
 * Online learning - Online decision making
 * Online optimization
 * Machine learning applications in multimedia
-* Responsible AI
 
 ## **Employment**
+* **Machine Learning Data Scientistr** Intern, SiriusXM and Pandora, Oakland, USA, Summer 2024
+    - Developed a framework to explain the similarity of a query and a document retrieved by a search ranking model.
 * **Software Engineer** Intern, Google LLC., Mountain View, USA, Spring 2022
     - Developed a highly accurate model to address the interest matching points problem by employing image processing and machine learning techniques, including depth detection, and image perspective detection/modification. Successfully enhanced the performance of SOTA models by up to 50% with the final implementation.
 * **Machine Learning and Data Science Researcher** , Research intern, Adobe, San Jose, USA, Summer 2021
