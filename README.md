@@ -10,7 +10,7 @@ Checkout my CV [here](https://ali-zeynali.github.io/home/files/CV_Ali_Zeynali.pd
 * Machine learning applications in multimedia
 
 ## **Employment**
-* **Machine Learning Data Scientistr** Intern, SiriusXM and Pandora, Oakland, USA, Summer 2024
+* **Machine Learning Data Scientist** Intern, SiriusXM and Pandora, Oakland, USA, Summer 2024
     - Developed a framework to explain the similarity of a query and a document retrieved by a search ranking model.
 * **Software Engineer** Intern, Google LLC., Mountain View, USA, Spring 2022
     - Developed a highly accurate model to address the interest matching points problem by employing image processing and machine learning techniques, including depth detection, and image perspective detection/modification. Successfully enhanced the performance of SOTA models by up to 50% with the final implementation.
