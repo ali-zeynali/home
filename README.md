@@ -2,7 +2,8 @@
 I am a Ph.D. student of [Computer Science at the University of Massachusetts, Amherst](https://www.cics.umass.edu/). I do my research under the supervision of Prof. [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/) and [Ramesh K. Sitaraman](https://groups.cs.umass.edu/ramesh/lids-lab/) (co-adivsors). I received my master's degree from UMass with grade 4.0/4.0. Before joining UMass, I received my B.Sc. degree at the department of Computer Engineering at the Sharif University of Technology. Prof. Ali Sharifi-Zarchi was my advisor. 
 
 
-Checkout my CV [here](https://ali-zeynali.github.io/home/files/CV_Ali_Zeynali.pdf)
+**CV**: Checkout my CV [[here]](https://ali-zeynali.github.io/home/files/CV_Ali_Zeynali.pdf).
+**Email**: "a" + \[my last name \] at umass dot edu 
 
 ## **Research Area**
 * Online learning - Online decision making
