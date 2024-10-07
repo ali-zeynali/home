@@ -18,11 +18,23 @@ Checkout my CV [here](https://ali-zeynali.github.io/home/files/CV_Ali_Zeynali.pd
     - Focused on enhancing user experience by optimizing PDF file interactions in liquid-mode, ensuring seamless performance in both offline and online streaming modes.
 
 ## **Publications**
+*   **Near-Optimal Emission-Aware Online Ride Assignment Algorithm for Peak Demand Hours [Under review]**
+
+    *Mahsa Sahebdel, Ali Zeynali, Noman Bashir, Ramesh Sitaraman, Mohammad Hajiesmaili*
+    
+*   **LEAD: Towards Learning-Based Equity-Aware Decarbonization in Ridesharing Platforms [Under review] [[PDF]](https://ali-zeynali.github.io/LEAD.pdf)**
+
+    *Mahsa Sahebdel, Ali Zeynali, Noman Bashir, Prashant Shenoy, Mohammad Hajiesmaili*
+
+*   **BOLA360: Near-optimal View and Bitrate Adaptation for 360-degree Video Streaming - Journal Version [Under review] [[PDF]](https://ali-zeynali.github.io/BOLA360_v2.pdf)**
+
+    *Ali Zeynali, Mahsa Sahebdel, Mohammad Hajiesmaili, Ramesh Sitaraman*
+    
 *   **Robust Learning-Augmented Dictionaries [ICML 2024] [[PDF]](https://ali-zeynali.github.io/RobustSL.pdf)**
 
     *Ali Zeynali, Shahin Kamali, Mohammad Hajiesmaili*
     
-*   **BOLA360: Near-optimal View and Bitrate Adaptation for 360-degree Video Streaming [ACM MMSys 2024] [[PDF]](https://ali-zeynali.github.io/BOLA360.pdf)**
+*   **BOLA360: Near-optimal View and Bitrate Adaptation for 360-degree Video Streaming [ACM MMSys 2024] [[PDF]](https://ali-zeynali.github.io/BOLA360_v2.pdf)**
 
     *Ali Zeynali, Mohammad Hajiesmaili, Ramesh Sitaraman*
 	
