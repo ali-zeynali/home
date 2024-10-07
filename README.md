@@ -3,6 +3,7 @@ I am a Ph.D. student of [Computer Science at the University of Massachusetts, Am
 
 
 **CV**: Checkout my CV [[here]](https://ali-zeynali.github.io/home/files/CV_Ali_Zeynali.pdf).
+
 **Email**: "a" + \[my last name \] at umass dot edu 
 
 ## **Research Area**
