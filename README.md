@@ -14,13 +14,12 @@ I am a Ph.D. student of [Computer Science at the University of Massachusetts, Am
 ## **Employment**
 * **Machine Learning Data Scientist** Intern, SiriusXM and Pandora, Oakland, USA, Summer 2024
     - Developed a framework to explain the similarity of a query and a document retrieved by a search ranking model; Designed on collaboration of multiple LLMs.
-	
-    - Enhanced the performance of previous models up to $26\%$ with the final implementation.
+    - Enhanced the performance of previous models up to 26% with the final implementation.
 * **Software Engineer** Intern, Google LLC., Mountain View, USA, Spring 2022
     - Developed a highly accurate model to address the interest matching points problem by employing image processing and machine learning techniques, including depth detection, and image perspective detection/modification. Successfully enhanced the performance of SOTA models by up to 50% with the final implementation.
 * **Machine Learning and Data Science Researcher** , Research intern, Adobe, San Jose, USA, Summer 2021
     - Enhanced streaming model of Adobe liquid-mode PDF, ensuring seamless performance in  offline/online.
-	- Improved quality of experience and wasted bandwidth both up to $20\%$ with the final model.
+	- Improved quality of experience and wasted bandwidth both up to 20% with the final model.
 
 ## **Publications**
 *   **Near-Optimal Emission-Aware Online Ride Assignment Algorithm for Peak Demand Hours [Under review]**
