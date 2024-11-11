@@ -19,7 +19,8 @@ I am a Ph.D. student of [Computer Science at the University of Massachusetts, Am
 * **Software Engineer** Intern, Google LLC., Mountain View, USA, Spring 2022
     - Developed a highly accurate model to address the interest matching points problem by employing image processing and machine learning techniques, including depth detection, and image perspective detection/modification. Successfully enhanced the performance of SOTA models by up to 50% with the final implementation.
 * **Machine Learning and Data Science Researcher** , Research intern, Adobe, San Jose, USA, Summer 2021
-    - Focused on enhancing user experience by optimizing PDF file interactions in liquid-mode, ensuring seamless performance in both offline and online streaming modes.
+    - Enhanced streaming model of Adobe liquid-mode PDF, ensuring seamless performance in  offline/online.
+	- Improved quality of experience and wasted bandwidth both up to $20\%$ with the final model.
 
 ## **Publications**
 *   **Near-Optimal Emission-Aware Online Ride Assignment Algorithm for Peak Demand Hours [Under review]**
