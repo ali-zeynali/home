@@ -26,7 +26,7 @@ I am a Ph.D. student of [Computer Science at the University of Massachusetts, Am
 
     *Mahsa Sahebdel, Ali Zeynali, Noman Bashir, Ramesh Sitaraman, Mohammad Hajiesmaili*
     
-*   **LEAD: Towards Learning-Based Equity-Aware Decarbonization in Ridesharing Platforms [Under review] [[PDF]](https://ali-zeynali.github.io/LEAD.pdf)**
+*   **LEAD: Towards Learning-Based Equity-Aware Decarbonization in Ridesharing Platforms [ACM FAccT 2025] [[PDF]](https://ali-zeynali.github.io/LEAD.pdf)**
 
     *Mahsa Sahebdel, Ali Zeynali, Noman Bashir, Prashant Shenoy, Mohammad Hajiesmaili*
 
@@ -46,7 +46,7 @@ I am a Ph.D. student of [Computer Science at the University of Massachusetts, Am
 
     *Mahsa Sahebdel, Ali Zeynali, Noman Bashir, Prashant Shenoy, Mohammad Hajiesmaili*
     
-*   **Data-driven Algorithms for Reducing the Carbon Footprint of Ride-sharing Ecosystems [ACM e-Energy 2023] [[PDF]](https://ali-zeynali.github.io/dataDriverForReducingCarbonFootpintOfRideSharingEcosystems.pdf)**
+*   **Data-driven Algorithms for Reducing the Carbon Footprint of Ride-sharing Ecosystems [ACM e-Energy 2023] [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3599733.3606300)**
 
     *Mahsa Sahebdel, Ali Zeynali, Noman Bashir, Mohammad Hajiesmaili, Jimi Oke*
 	
