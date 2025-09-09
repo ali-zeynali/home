@@ -8,10 +8,12 @@ I am a Ph.D. student of [Computer Science at the University of Massachusetts, Am
 
 ## **Research Area**
 * Online learning - Online decision making
-* Online optimization
-* Machine learning applications in multimedia
+* Trustworthy Machine Learning
 
 ## **Employment**
+* **Machine Learning Data Scientist** Intern, Airbnb, Remote, Summer/Fall 2025
+    - Developed a framework to detect fake images generated or manipulated by generative models.
+    - Designed a strategy to explain the outputs of fake image detection models.
 * **Machine Learning Data Scientist** Intern, SiriusXM and Pandora, Oakland, USA, Summer 2024
     - Developed a framework to explain the similarity of a query and a document retrieved by a search ranking model; Designed on collaboration of multiple LLMs.
     - Enhanced the performance of previous models up to 26% with the final implementation.
@@ -67,6 +69,10 @@ I am a Ph.D. student of [Computer Science at the University of Massachusetts, Am
     *Bo Sun, Ali Zeynali, Tongxin Li, Mohammad Hajiesmaili, Adam Wierman, Danny H.K. Tsang*
 
 ## **Selected Projects**
+* **Robust and Unbiased Self-Play Strategy for Fine-Tuning Large Language Models** 
+
+    *A framework for fine-tuning large language models (LLM) on imbalanced datasets*
+
 * **VSE360: Online 360-degree video streaming simulation evironment [[Github]](https://github.com/ali-zeynali/VSE360)** 
 
     *Fully simulated python environment to evaluate 360-degree ABR algorithms*
