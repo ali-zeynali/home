@@ -24,6 +24,10 @@ I am a Ph.D. student of [Computer Science at the University of Massachusetts, Am
 	- Improved quality of experience and wasted bandwidth both up to 20% with the final model.
 
 ## **Publications**
+*   **Smoothed Online Optimization for Target Tracking: Robust and Learning-Augmented Algorithms [Under review] [[PDF]](https://ali-zeynali.github.io/SOOTT.pdf)**
+
+    *Ali Zeynali, Mahsa Sahebdel, Qingong Liu, Ramesh Sitaraman, Mohammad Hajiesmaili*
+
 *   **Near-Optimal Emission-Aware Online Ride Assignment Algorithm for Peak Demand Hours [Under review] [[PDF]](https://ali-zeynali.github.io/LARA.pdf)**
 
     *Mahsa Sahebdel, Ali Zeynali, Noman Bashir, Ramesh Sitaraman, Mohammad Hajiesmaili*
