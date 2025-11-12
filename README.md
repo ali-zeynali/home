@@ -36,7 +36,7 @@ I am a Ph.D. student of [Computer Science at the University of Massachusetts, Am
 
     *Mahsa Sahebdel, Ali Zeynali, Noman Bashir, Prashant Shenoy, Mohammad Hajiesmaili*
 
-*   **BOLA360: Near-optimal View and Bitrate Adaptation for 360-degree Video Streaming - Journal Version [Under review] [[PDF]](https://ali-zeynali.github.io/BOLA360_v2.pdf)**
+*   **BOLA360: Near-optimal View and Bitrate Adaptation for 360-degree Video Streaming - Journal Version [ACM TOMM] [[PDF]](https://ali-zeynali.github.io/BOLA360_v2.pdf)**
 
     *Ali Zeynali, Mahsa Sahebdel, Mohammad Hajiesmaili, Ramesh Sitaraman*
     
