@@ -1,5 +1,7 @@
 # **Biography**
-I am a Ph.D. student of [Computer Science at the University of Massachusetts, Amherst](https://www.cics.umass.edu/). I do my research under the supervision of Prof. [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/) and [Ramesh K. Sitaraman](https://groups.cs.umass.edu/ramesh/lids-lab/) (co-adivsors). I received my master's degree from UMass with grade 4.0/4.0. Before joining UMass, I received my B.Sc. degree at the department of Computer Engineering at the Sharif University of Technology. Prof. Ali Sharifi-Zarchi was my advisor. 
+I am a Ph.D. student in Computer Science at [the University of Massachusetts Amherst](https://www.cics.umass.edu/). My research is advised by Prof. [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/) and Prof. [Ramesh K. Sitaraman](https://groups.cs.umass.edu/ramesh/lids-lab/). My work focuses on designing robust learning and decision-making algorithms for large-scale machine learning systems, with a particular emphasis on data-efficient fine-tuning of large language and vision-language models under limited or noisy data regimes.
+
+Alongside my academic research, I have experience building and deploying large-scale machine learning systems in industry, including work at Google, Adobe, Airbnb, and SiriusXM. I received my M.S. in Computer Science from UMass Amherst with a GPA of 4.0/4.0. Prior to joining UMass, I earned my B.Sc. in Computer Engineering from Sharif University of Technology, where I was advised by Prof. Ali Sharifi-Zarchi.
 
 
 **CV**: Checkout my CV [[here]](https://ali-zeynali.github.io/home/files/CV_Ali_Zeynali.pdf).
@@ -24,7 +26,7 @@ I am a Ph.D. student of [Computer Science at the University of Massachusetts, Am
 	- Improved quality of experience and wasted bandwidth both up to 20% with the final model.
 
 ## **Publications**
-*   **Smoothed Online Optimization for Target Tracking: Robust and Learning-Augmented Algorithms [Under review] [[PDF]](https://ali-zeynali.github.io/SOOTT.pdf)**
+*   **Smoothed Online Optimization for Target Tracking: Robust and Learning-Augmented Algorithms [ALT 2026] [[PDF]](https://ali-zeynali.github.io/SOOTT.pdf)**
 
     *Ali Zeynali, Mahsa Sahebdel, Qingong Liu, Ramesh Sitaraman, Mohammad Hajiesmaili*
 
