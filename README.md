@@ -20,7 +20,7 @@ I design robust learning and online decision-making algorithms for large-scale M
   </div>
   <div class="highlight-card">
     <h3>Engineering</h3>
-    <p>Industry projects at Google, Adobe, Airbnb, and SiriusXM/Pandora with measurable product impact.</p>
+    <p>I had industry experience at Google, Adobe, Airbnb, and SiriusXM/Pandora working on cutting-edge technologies and scalable AI models.</p>
   </div>
   <div class="highlight-card">
     <h3>Interests</h3>
@@ -30,16 +30,16 @@ I design robust learning and online decision-making algorithms for large-scale M
 
 ## Industry Experience
 
-- **Machine Learning Data Scientist Intern**, Airbnb (Remote), Summer/Fall 2025  
+- **Machine Learning Data Scientist Intern**, Airbnb <img class="company-logo" src="https://cdn.simpleicons.org/airbnb/FF5A5F" alt="Airbnb logo" /> (Remote), Summer/Fall 2025  
   - Built a framework to detect synthetic/manipulated images.
   - Designed methods to explain fake-image detection predictions.
-- **Machine Learning Data Scientist Intern**, SiriusXM and Pandora (Oakland, USA), Summer 2024  
+- **Machine Learning Data Scientist Intern**, SiriusXM and Pandora <img class="company-logo" src="https://cdn.simpleicons.org/siriusxm/1398FF" alt="SiriusXM logo" /> (Oakland, USA), Summer 2024  
   - Built an explainability framework for search ranking relevance.
   - Improved prior model performance by up to 26%.
-- **Software Engineer Intern**, Google (Mountain View, USA), Spring 2022  
+- **Software Engineer Intern**, Google <img class="company-logo" src="https://cdn.simpleicons.org/google/4285F4" alt="Google logo" /> (Mountain View, USA), Spring 2022  
   - Improved interest-matching accuracy with geometry/depth-aware vision methods.
   - Improved over prior SOTA models by up to 50%.
-- **ML/Data Science Research Intern**, Adobe (San Jose, USA), Summer 2021  
+- **ML/Data Science Research Intern**, Adobe <img class="company-logo" src="https://cdn.simpleicons.org/adobe/FF0000" alt="Adobe logo" /> (San Jose, USA), Summer 2021  
   - Improved Adobe Liquid Mode streaming model under online/offline settings.
   - Improved quality of experience and bandwidth efficiency by up to 20%.
 
@@ -118,4 +118,4 @@ I design robust learning and online decision-making algorithms for large-scale M
 
 ## Contact
 
-- Email: `a` + `[last name]` at umass dot edu
+- Email: <span class="email-obf">a + [last name] at umass dot edu</span>

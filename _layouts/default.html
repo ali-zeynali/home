@@ -22,13 +22,12 @@
   <body>
     <div class="wrapper page-shell">
       <header class="site-header">
-        <div class="header-top-row">
-          <h1 class="site-title">{{ site.title | default: site.github.repository_name }}</h1>
-          <button id="theme-toggle" class="theme-toggle" aria-label="Switch color mode" type="button">
-            <i class="fa-regular fa-moon"></i>
-            <span>Theme</span>
-          </button>
-        </div>
+        <button id="theme-toggle" class="theme-toggle" aria-label="Switch color mode" type="button">
+          <i class="fa-regular fa-moon"></i>
+          <span>Theme</span>
+        </button>
+
+        <h1 class="site-title">{{ site.title | default: site.github.repository_name }}</h1>
 
         {% if site.logo %}
           <img class="avatar" src="{{ site.logo | relative_url }}" alt="Profile photo" />
