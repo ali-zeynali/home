@@ -1,5 +1,7 @@
 # Ali Zeynali
 
+## About
+
 Ph.D. student in Computer Science at [UMass Amherst](https://www.cics.umass.edu/), advised by Prof. [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/) and Prof. [Ramesh K. Sitaraman](https://groups.cs.umass.edu/ramesh/lids-lab/).
 
 I design robust learning and online decision-making algorithms for large-scale ML systems, with emphasis on data-efficient fine-tuning under limited or noisy data.
@@ -11,19 +13,35 @@ I design robust learning and online decision-making algorithms for large-scale M
   <a href="https://www.linkedin.com/in/ali-zeynali/" class="button-link">LinkedIn</a>
 </div>
 
-## At a Glance
+<div class="highlight-grid">
+  <div class="highlight-card">
+    <h3>Research</h3>
+    <p>Online learning, decision-making, and trustworthy ML with a focus on robust, learning-augmented methods.</p>
+  </div>
+  <div class="highlight-card">
+    <h3>Engineering</h3>
+    <p>Industry projects at Google, Adobe, Airbnb, and SiriusXM/Pandora with measurable product impact.</p>
+  </div>
+  <div class="highlight-card">
+    <h3>Interests</h3>
+    <p>Scalable ML systems, fine-tuning under noisy/limited data, and practical deployment.</p>
+  </div>
+</div>
 
-- **Current role:** Ph.D. student, UMass Amherst
-- **Focus areas:** Online learning, online decision making, trustworthy ML
-- **Industry experience:** Google, Adobe, Airbnb, SiriusXM/Pandora
-- **Email:** `a` + `[last name]` at umass dot edu
+## Industry Experience
 
-## Research Interests
-
-- Online learning and online decision making
-- Trustworthy machine learning
-- Learning-augmented algorithms
-- Data-efficient adaptation of large models
+- **Machine Learning Data Scientist Intern**, Airbnb (Remote), Summer/Fall 2025  
+  - Built a framework to detect synthetic/manipulated images.
+  - Designed methods to explain fake-image detection predictions.
+- **Machine Learning Data Scientist Intern**, SiriusXM and Pandora (Oakland, USA), Summer 2024  
+  - Built an explainability framework for search ranking relevance.
+  - Improved prior model performance by up to 26%.
+- **Software Engineer Intern**, Google (Mountain View, USA), Spring 2022  
+  - Improved interest-matching accuracy with geometry/depth-aware vision methods.
+  - Improved over prior SOTA models by up to 50%.
+- **ML/Data Science Research Intern**, Adobe (San Jose, USA), Summer 2021  
+  - Improved Adobe Liquid Mode streaming model under online/offline settings.
+  - Improved quality of experience and bandwidth efficiency by up to 20%.
 
 ## Selected Publications
 
@@ -50,21 +68,6 @@ I design robust learning and online decision-making algorithms for large-scale M
 - **Competitive Algorithms for Online Multidimensional Knapsack Problems** (ACM SIGMETRICS 2022) [[PDF]](https://ali-zeynali.github.io/CompetitiveAlgorithmsforOnlineMultidimensionalKnapsackProblems.pdf)
 - **Data-driven Competitive Algorithms for Online Knapsack and Set Cover** (AAAI 2021) [[PDF]](https://ali-zeynali.github.io/DatadrivenCompetitiveAlgorithmsforOnlineKnapsackandSetCover.pdf)
 - **Competitive Algorithms for the Online Multiple Knapsack Problem with Application to Electric Vehicle Charging** (ACM SIGMETRICS 2021) [[PDF]](https://ali-zeynali.github.io/CompetitiveAlgorithmsfortheOnlineMultipleKnapsack.pdf)
-
-## Industry Experience
-
-- **Machine Learning Data Scientist Intern**, Airbnb (Remote), Summer/Fall 2025  
-  - Built a framework to detect synthetic/manipulated images.
-  - Designed methods to explain fake-image detection predictions.
-- **Machine Learning Data Scientist Intern**, SiriusXM and Pandora (Oakland, USA), Summer 2024  
-  - Built an explainability framework for search ranking relevance.
-  - Improved prior model performance by up to 26%.
-- **Software Engineer Intern**, Google (Mountain View, USA), Spring 2022  
-  - Improved interest-matching accuracy with geometry/depth-aware vision methods.
-  - Improved over prior SOTA models by up to 50%.
-- **ML/Data Science Research Intern**, Adobe (San Jose, USA), Summer 2021  
-  - Improved Adobe Liquid Mode streaming model under online/offline settings.
-  - Improved quality of experience and bandwidth efficiency by up to 20%.
 
 ## Projects
 

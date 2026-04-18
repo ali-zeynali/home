@@ -22,7 +22,13 @@
   <body>
     <div class="wrapper page-shell">
       <header class="site-header">
-        <h1 class="site-title">{{ site.title | default: site.github.repository_name }}</h1>
+        <div class="header-top-row">
+          <h1 class="site-title">{{ site.title | default: site.github.repository_name }}</h1>
+          <button id="theme-toggle" class="theme-toggle" aria-label="Switch color mode" type="button">
+            <i class="fa-regular fa-moon"></i>
+            <span>Theme</span>
+          </button>
+        </div>
 
         {% if site.logo %}
           <img class="avatar" src="{{ site.logo | relative_url }}" alt="Profile photo" />
@@ -48,10 +54,9 @@
         </div>
 
         <nav class="top-nav" aria-label="Section navigation">
-          <a href="#at-a-glance">At a Glance</a>
-          <a href="#research-interests">Research</a>
-          <a href="#selected-publications">Publications</a>
+          <a href="#about">About</a>
           <a href="#industry-experience">Industry</a>
+          <a href="#selected-publications">Publications</a>
           <a href="#projects">Projects</a>
           <a href="#honors-and-awards">Awards</a>
           <a href="#contact">Contact</a>
@@ -71,12 +76,6 @@
       </section>
 
       <footer class="site-footer">
-        {% if site.github.is_project_page %}
-          <p>
-            This project is maintained by
-            <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>
-          </p>
-        {% endif %}
         <p>
           <small>
             Hosted on GitHub Pages — Theme by
@@ -87,6 +86,35 @@
     </div>
 
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+    <script>
+      (function () {
+        const storageKey = 'theme-preference';
+        const root = document.documentElement;
+        const toggle = document.getElementById('theme-toggle');
+
+        const setTheme = (theme) => {
+          root.setAttribute('data-theme', theme);
+          if (toggle) {
+            toggle.innerHTML = theme === 'light'
+              ? '<i class="fa-regular fa-sun"></i><span>Theme</span>'
+              : '<i class="fa-regular fa-moon"></i><span>Theme</span>';
+          }
+        };
+
+        const saved = localStorage.getItem(storageKey);
+        if (saved === 'light' || saved === 'dark') {
+          setTheme(saved);
+        }
+
+        if (toggle) {
+          toggle.addEventListener('click', function () {
+            const next = root.getAttribute('data-theme') === 'light' ? 'dark' : 'light';
+            setTheme(next);
+            localStorage.setItem(storageKey, next);
+          });
+        }
+      })();
+    </script>
     {% if site.google_analytics %}
       <script>
         (function (i, s, o, g, r, a, m) {
