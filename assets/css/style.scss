@@ -426,6 +426,8 @@ img {
   margin-top: 34px;
   padding-top: 12px;
   color: var(--muted);
+  position: static !important;
+  bottom: auto !important;
 }
 
 @media screen and (max-width: 960px) {
