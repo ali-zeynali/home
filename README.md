@@ -1,139 +1,204 @@
-# **Biography**
-I am a Ph.D. student in Computer Science at [the University of Massachusetts Amherst](https://www.cics.umass.edu/). My research is advised by Prof. [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/) and Prof. [Ramesh K. Sitaraman](https://groups.cs.umass.edu/ramesh/lids-lab/). My work focuses on designing robust learning and decision-making algorithms for large-scale machine learning systems, with a particular emphasis on data-efficient fine-tuning of large language and vision-language models under limited or noisy data regimes.
+# Ali Zeynali
 
-Alongside my academic research, I have experience building and deploying large-scale machine learning systems in industry, including work at Google, Adobe, Airbnb, and SiriusXM. I received my M.S. in Computer Science from UMass Amherst with a GPA of 4.0/4.0. Prior to joining UMass, I earned my B.Sc. in Computer Engineering from Sharif University of Technology, where I was advised by Prof. Ali Sharifi-Zarchi.
+## About
 
+Ph.D. student in Computer Science at [UMass Amherst](https://www.cics.umass.edu/), advised by Prof. [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/) and Prof. [Ramesh K. Sitaraman](https://groups.cs.umass.edu/ramesh/lids-lab/).
 
-**CV**: Checkout my CV [[here]](https://ali-zeynali.github.io/home/files/CV_Ali_Zeynali.pdf).
+I design robust learning and online decision-making algorithms for large-scale ML systems, with emphasis on data-efficient fine-tuning under limited or noisy data.
 
-**Email**: "a" + \[my last name \] at umass dot edu 
+<div class="quick-links">
+  <a href="/home/files/CV_Ali_Zeynali.pdf" class="button-link">CV</a>
+  <a href="https://scholar.google.com/citations?user=WpCU1L4AAAAJ&hl=en" class="button-link">Google Scholar</a>
+  <a href="https://github.com/ali-zeynali" class="button-link">GitHub</a>
+  <a href="https://www.linkedin.com/in/ali-zeynali/" class="button-link">LinkedIn</a>
+</div>
 
-## **Research Area**
-* Online learning - Online decision making
-* Trustworthy Machine Learning
+<div class="highlight-grid">
+  <div class="highlight-card">
+    <h3>Research</h3>
+    <p>Online learning, decision-making, and trustworthy ML with a focus on robust, learning-augmented methods.</p>
+  </div>
+  <div class="highlight-card">
+    <h3>Engineering</h3>
+    <p>I had industry experience at Google, Adobe, Airbnb, and SiriusXM/Pandora working on cutting-edge technologies and scalable AI models.</p>
+  </div>
+  <div class="highlight-card">
+    <h3>Interests</h3>
+    <p>Scalable ML systems, fine-tuning under noisy/limited data, and practical deployment.</p>
+  </div>
+</div>
 
-## **Employment**
-* **Machine Learning Data Scientist** Intern, Airbnb, Remote, Summer/Fall 2025
-    - Developed a framework to detect fake images generated or manipulated by generative models.
-    - Designed a strategy to explain the outputs of fake image detection models.
-* **Machine Learning Data Scientist** Intern, SiriusXM and Pandora, Oakland, USA, Summer 2024
-    - Developed a framework to explain the similarity of a query and a document retrieved by a search ranking model; Designed on collaboration of multiple LLMs.
-    - Enhanced the performance of previous models up to 26% with the final implementation.
-* **Software Engineer** Intern, Google LLC., Mountain View, USA, Spring 2022
-    - Developed a highly accurate model to address the interest matching points problem by employing image processing and machine learning techniques, including depth detection, and image perspective detection/modification. Successfully enhanced the performance of SOTA models by up to 50% with the final implementation.
-* **Machine Learning and Data Science Researcher** , Research intern, Adobe, San Jose, USA, Summer 2021
-    - Enhanced streaming model of Adobe liquid-mode PDF, ensuring seamless performance in  offline/online.
-	- Improved quality of experience and wasted bandwidth both up to 20% with the final model.
+## Industry Experience
 
-## **Publications**
-*   **Smoothed Online Optimization for Target Tracking: Robust and Learning-Augmented Algorithms [ALT 2026] [[PDF]](https://ali-zeynali.github.io/SOOTT.pdf)**
+- **Machine Learning Data Scientist Intern**, Airbnb (Remote), Summer/Fall 2025  
+  - Built a framework to detect synthetic/manipulated images.
+  - Designed methods to explain fake-image detection predictions.
+- **Machine Learning Data Scientist Intern**, SiriusXM and Pandora (Oakland, USA), Summer 2024  
+  - Built an explainability framework for search ranking relevance.
+  - Improved prior model performance by up to 26%.
+- **Software Engineer Intern**, Google (Mountain View, USA), Spring 2022  
+  - Improved interest-matching accuracy with geometry/depth-aware vision methods.
+  - Improved over prior SOTA models by up to 50%.
+- **ML/Data Science Research Intern**, Adobe (San Jose, USA), Summer 2021  
+  - Improved Adobe Liquid Mode streaming model under online/offline settings.
+  - Improved quality of experience and bandwidth efficiency by up to 20%.
 
-    *Ali Zeynali, Mahsa Sahebdel, Qingong Liu, Ramesh Sitaraman, Mohammad Hajiesmaili*
+## Selected Publications
 
-*   **Near-Optimal Emission-Aware Online Ride Assignment Algorithm for Peak Demand Hours [Under review] [[PDF]](https://ali-zeynali.github.io/LARA.pdf)**
+<input id="paper-search" class="paper-search" type="search" placeholder="Search papers by title, venue, year, or author..." aria-label="Search publications" />
 
-    *Mahsa Sahebdel, Ali Zeynali, Noman Bashir, Ramesh Sitaraman, Mohammad Hajiesmaili*
-    
-*   **LEAD: Towards Learning-Based Equity-Aware Decarbonization in Ridesharing Platforms [ACM FAccT 2025] [[PDF]](https://ali-zeynali.github.io/LEAD.pdf)**
+<div id="publications-list" class="publications-list">
+  <article class="paper-item">
+    <h3>Near-Optimal Emission-Aware Online Ride Assignment Algorithm for Peak Demand Hours</h3>
+    <p><strong>Venue:</strong> Under review · <a href="https://ali-zeynali.github.io/LARA.pdf">PDF</a></p>
+    <p class="paper-authors">Mahsa Sahebdel, Ali Zeynali, Noman Bashir, Ramesh Sitaraman, Mohammad Hajiesmaili</p>
+  </article>
 
-    *Mahsa Sahebdel, Ali Zeynali, Noman Bashir, Prashant Shenoy, Mohammad Hajiesmaili*
+  <article class="paper-item">
+    <h3>Smoothed Online Optimization for Target Tracking: Robust and Learning-Augmented Algorithms</h3>
+    <p><strong>Venue:</strong> ALT 2026 · <a href="https://ali-zeynali.github.io/SOOTT.pdf">PDF</a></p>
+    <p class="paper-authors">Ali Zeynali, Mahsa Sahebdel, Qingong Liu, Ramesh Sitaraman, Mohammad Hajiesmaili</p>
+  </article>
 
-*   **BOLA360: Near-optimal View and Bitrate Adaptation for 360-degree Video Streaming - Journal Version [ACM TOMM] [[PDF]](https://ali-zeynali.github.io/BOLA360_v2.pdf)**
+  <article class="paper-item">
+    <h3>LEAD: Towards Learning-Based Equity-Aware Decarbonization in Ridesharing Platforms</h3>
+    <p><strong>Venue:</strong> ACM FAccT 2025 · <a href="https://ali-zeynali.github.io/LEAD.pdf">PDF</a></p>
+    <p class="paper-authors">Mahsa Sahebdel, Ali Zeynali, Noman Bashir, Prashant Shenoy, Mohammad Hajiesmaili</p>
+  </article>
 
-    *Ali Zeynali, Mahsa Sahebdel, Mohammad Hajiesmaili, Ramesh Sitaraman*
-    
-*   **Robust Learning-Augmented Dictionaries [ICML 2024] [[PDF]](https://ali-zeynali.github.io/RobustSL.pdf)**
+  <article class="paper-item">
+    <h3>BOLA360: Near-optimal View and Bitrate Adaptation for 360-degree Video Streaming - Journal Version</h3>
+    <p><strong>Venue:</strong> ACM TOMM 2025 · <a href="https://ali-zeynali.github.io/BOLA360_v2.pdf">PDF</a></p>
+    <p class="paper-authors">Ali Zeynali, Mahsa Sahebdel, Mohammad Hajiesmaili, Ramesh Sitaraman</p>
+  </article>
 
-    *Ali Zeynali, Shahin Kamali, Mohammad Hajiesmaili*
-    
-*   **BOLA360: Near-optimal View and Bitrate Adaptation for 360-degree Video Streaming [ACM MMSys 2024] [[PDF]](https://ali-zeynali.github.io/BOLA360_v2.pdf)**
+  <article class="paper-item">
+    <h3>Robust Learning-Augmented Dictionaries</h3>
+    <p><strong>Venue:</strong> ICML 2024 · <a href="https://ali-zeynali.github.io/RobustSL.pdf">PDF</a></p>
+    <p class="paper-authors">Ali Zeynali, Shahin Kamali, Mohammad Hajiesmaili</p>
+  </article>
 
-    *Ali Zeynali, Mohammad Hajiesmaili, Ramesh Sitaraman*
-	
-* **A Holistic Approach for Equity-aware Carbon Reduction of Ridesharing Platforms [ACM e-Energy 2024] [[PDF]](https://ali-zeynali.github.io/AHolisticApproach-CarbonEmission.pdf)**
+  <article class="paper-item">
+    <h3>BOLA360: Near-optimal View and Bitrate Adaptation for 360-degree Video Streaming</h3>
+    <p><strong>Venue:</strong> ACM MMSys 2024 · <a href="https://ali-zeynali.github.io/BOLA360_v2.pdf">PDF</a></p>
+    <p class="paper-authors">Ali Zeynali, Mohammad Hajiesmaili, Ramesh Sitaraman</p>
+  </article>
 
-    *Mahsa Sahebdel, Ali Zeynali, Noman Bashir, Prashant Shenoy, Mohammad Hajiesmaili*
-    
-*   **Data-driven Algorithms for Reducing the Carbon Footprint of Ride-sharing Ecosystems [ACM e-Energy 2023] [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3599733.3606300)**
+  <article class="paper-item">
+    <h3>A Holistic Approach for Equity-aware Carbon Reduction of Ridesharing Platforms</h3>
+    <p><strong>Venue:</strong> ACM e-Energy 2024 · <a href="https://ali-zeynali.github.io/AHolisticApproach-CarbonEmission.pdf">PDF</a></p>
+    <p class="paper-authors">Mahsa Sahebdel, Ali Zeynali, Noman Bashir, Prashant Shenoy, Mohammad Hajiesmaili</p>
+  </article>
 
-    *Mahsa Sahebdel, Ali Zeynali, Noman Bashir, Mohammad Hajiesmaili, Jimi Oke*
-	
-*   **SemEval-2022 Task 8: Multilingual news article similarity [SemEval 2022] [[PDF]](https://ali-zeynali.github.io/SemEval_2022Task8_MultilingualNewsArticleSimilarity.pdf)** 
+  <article class="paper-item">
+    <h3>Data-driven Algorithms for Reducing the Carbon Footprint of Ride-sharing Ecosystems</h3>
+    <p><strong>Venue:</strong> ACM e-Energy 2023 · <a href="https://dl.acm.org/doi/pdf/10.1145/3599733.3606300">PDF</a></p>
+    <p class="paper-authors">Mahsa Sahebdel, Ali Zeynali, Noman Bashir, Mohammad Hajiesmaili, Jimi Oke</p>
+  </article>
 
-	*Xi Chen, Ali Zeynali, Chico Camargo, Fabian Flock, Devin Gaffney, Przemyslaw Grabowicz, Scott Hale, David Jurgens, Mattia Samory*
-	
-*   **Competitive Algorithms for Online MultidimensionalKnapsack Problems [ACM SIGMETRICS 2022] [[PDF]](https://ali-zeynali.github.io/CompetitiveAlgorithmsforOnlineMultidimensionalKnapsackProblems.pdf)**
+  <article class="paper-item">
+    <h3>SemEval-2022 Task 8: Multilingual News Article Similarity</h3>
+    <p><strong>Venue:</strong> SemEval 2022 · <a href="https://ali-zeynali.github.io/SemEval_2022Task8_MultilingualNewsArticleSimilarity.pdf">PDF</a></p>
+    <p class="paper-authors">Xi Chen, Ali Zeynali, Chico Camargo, Fabian Flock, Devin Gaffney, Przemyslaw Grabowicz, Scott Hale, David Jurgens, Mattia Samory</p>
+  </article>
 
-    *Lin Yang, Ali Zeynali, Mohammad Hajiesmaili, Ramesh Sitaraman, Don Towsley*
-	
-*	**Data-driven Competitive Algorithms for Online Knapsack and Set Cover [AAAI 2021] [[PDF]](https://ali-zeynali.github.io/DatadrivenCompetitiveAlgorithmsforOnlineKnapsackandSetCover.pdf)**
+  <article class="paper-item">
+    <h3>Competitive Algorithms for Online Multidimensional Knapsack Problems</h3>
+    <p><strong>Venue:</strong> ACM SIGMETRICS 2022 · <a href="https://ali-zeynali.github.io/CompetitiveAlgorithmsforOnlineMultidimensionalKnapsackProblems.pdf">PDF</a></p>
+    <p class="paper-authors">Lin Yang, Ali Zeynali, Mohammad Hajiesmaili, Ramesh Sitaraman, Don Towsley</p>
+  </article>
 
-    *Ali Zeynali, Bo Sun, Mohammad Hajiesmaili, Adam Wierman*
-	
-*   **Competitive Algorithms for the Online Multiple KnapsackProblem with Application to Electric Vehicle Charging [ACM SIGMETRICS 2021] [[PDF]](https://ali-zeynali.github.io/CompetitiveAlgorithmsfortheOnlineMultipleKnapsack.pdf)**
+  <article class="paper-item">
+    <h3>Data-driven Competitive Algorithms for Online Knapsack and Set Cover</h3>
+    <p><strong>Venue:</strong> AAAI 2021 · <a href="https://ali-zeynali.github.io/DatadrivenCompetitiveAlgorithmsforOnlineKnapsackandSetCover.pdf">PDF</a></p>
+    <p class="paper-authors">Ali Zeynali, Bo Sun, Mohammad Hajiesmaili, Adam Wierman</p>
+  </article>
 
-    *Bo Sun, Ali Zeynali, Tongxin Li, Mohammad Hajiesmaili, Adam Wierman, Danny H.K. Tsang*
+  <article class="paper-item">
+    <h3>Competitive Algorithms for the Online Multiple Knapsack Problem with Application to Electric Vehicle Charging</h3>
+    <p><strong>Venue:</strong> ACM SIGMETRICS 2021 · <a href="https://ali-zeynali.github.io/CompetitiveAlgorithmsfortheOnlineMultipleKnapsack.pdf">PDF</a></p>
+    <p class="paper-authors">Bo Sun, Ali Zeynali, Tongxin Li, Mohammad Hajiesmaili, Adam Wierman, Danny H.K. Tsang</p>
+  </article>
+</div>
 
-## **Selected Projects**
-* **Robust and Unbiased Self-Play Strategy for Fine-Tuning Large Language Models** 
+<p id="paper-search-empty" class="paper-search-empty" hidden>No papers matched your search.</p>
 
-    *A framework for fine-tuning large language models (LLM) on imbalanced datasets*
+## Projects
 
-* **VSE360: Online 360-degree video streaming simulation evironment [[Github]](https://github.com/ali-zeynali/VSE360)** 
+<div class="project-grid">
+  <article class="project-card">
+    <h3>Robust and Unbiased Self-Play Strategy for Fine-Tuning Large Language Models</h3>
+    <p>Framework for fine-tuning large language models on imbalanced datasets with robust self-play strategies.</p>
+    <div class="project-links">
+      <span class="project-chip">LLM Fine-Tuning</span>
+      <span class="project-chip">Robust Learning</span>
+    </div>
+  </article>
 
-    *Fully simulated python environment to evaluate 360-degree ABR algorithms*
+  <article class="project-card project-card-media">
+    <h3>VSE360: Online 360-degree video streaming simulation environment</h3>
+    <p>Fully simulated Python environment for evaluating 360-degree ABR algorithms.</p>
+    <div class="project-links">
+      <span class="project-chip">Video Streaming</span>
+      <span class="project-chip">Robust Learning</span>
+      <a href="https://github.com/ali-zeynali/VSE360">GitHub</a>
+    </div>
+    <div class="project-media-grid">
+      <img src="files/VSE/360_1.png" alt="VSE360 viewport example" />
+      <img src="files/VSE/bandwidth1.png" alt="VSE360 bandwidth trace" />
+    </div>
+  </article>
 
-<p align="center">
-<img src="files/VSE/360_1.png" width="350">
-<img src="files/VSE/bandwidth1.png" width="350">
-</p>
+  <article class="project-card project-card-media">
+    <h3>AI-Generated Music using Deep Learning + LSTM</h3>
+    <p>Music generation pipeline based on deep sequence models and LSTM architectures.</p>
+    <div class="project-links">
+      <span class="project-chip">LSTM</span>
+      <span class="project-chip">AI Training</span>
+      <span class="project-chip">Time Series</span>
+      <a href="https://github.com/ali-zeynali/MusicGen">GitHub</a>
+    </div>
+    <div class="project-media-grid">
+      <img src="files/LSTM/LSTM_Cell.png" alt="LSTM cell" />
+    </div>
+  </article>
 
+  <article class="project-card project-card-media">
+    <h3>AI-Generated Short Stories using Bidirectional LSTM</h3>
+    <p>Tiny-story generation model powered by deep bidirectional LSTM networks.</p>
+    <div class="project-links">
+      <span class="project-chip">Bi-LSTM</span>
+      <span class="project-chip">AI Training</span>
+      <span class="project-chip">Time Series</span>
+      <a href="https://github.com/ali-zeynali/ShortStoryGenerator">GitHub</a>
+    </div>
+    <div class="project-media-grid">
+      <img src="files/LSTM/Bi-LSTM.png" alt="Bi-LSTM architecture" />
+    </div>
+  </article>
 
-* **AI-Generated music using Deep Learning + LSTM [[Github]](https://github.com/ali-zeynali/MusicGen)** 
+  <article class="project-card project-card-media project-card-wide">
+    <h3>ZeySed: Deep neural networks for leaf classification</h3>
+    <p>Image classification pipeline for plant leaf datasets using deep neural networks.</p>
+    <div class="project-links">
+      <span class="project-chip">CNN</span>
+      <span class="project-chip">Image Processing</span>
+      <a href="https://github.com/ali-zeynali/ZeySed">GitHub</a>
+    </div>
+    <div class="project-media-grid">
+      <img src="files/ZeySed/classes.png" alt="Leaf classes" />
+      <img src="files/ZeySed/model.png" alt="Model architecture" />
+    </div>
+  </article>
+</div>
 
-    *Generating music using deep learning techniques, and LSTM networks*
+## Honors and Awards
 
-<p align="center">
-<img src="files/LSTM/LSTM_Cell.png" width="350">
-</p>
-
-* **AI-Generated short stories using bidirectional LSTM [[Github]](https://github.com/ali-zeynali/ShortStoryGenerator)** 
-
-    *Generating short/tiny stories with deep LSTM*
-    
-<p align="center">
-<img src="files/LSTM/Bi-LSTM.png" width="350">
-</p>
-
-* **ZeySed: Deep neural networks for leave classification [[Github]](https://github.com/ali-zeynali/ZeySed)** 
-
-    *Classifying image of leaves using deep neural networks*
-
-<p align="center">
-<img src="files/ZeySed/classes.png" width="500">
-</p>
-<p align="center">
-<img src="files/ZeySed/model.png" width="500">
-</p>
-
-## **Honors and Awards:** 
-
-* Thesis Proposal Writing Fellowship Award; Fall 2023 - University of Massachusetts, Amherst
-
-* Nominated for the Microsoft Research Fellowship by the CICS Department; Summer 2021 - University of Massachusetts, Amherst
-
-* Donald F. Towsley Graduate Scholarship; Summer 2021 - University of Massachusetts, Amherst
-
-* Ranked in Top-Ten BSc. students of computer engineering, class of 2019 (among 177 students)
-
-* Rank 24 of 10th IEEEXTREME, 24-hours programming contest among 1823 teams; Fall 2016
-
-* Golden Medalist of 8th International Olympiad IOAA (among more than 200 international students); Summer 2014 - Romania
-
-* Golden Medalist of 9th National Science Olympiad NOAA (among more than 5,000 students); Summer 2013
-
-
-## **Contact me:** 
-"a" + \[my last name \] at umass dot edu 
-
+- Thesis Proposal Writing Fellowship Award, UMass Amherst (Fall 2023)
+- Nominated for Microsoft Research Fellowship by CICS Department, UMass Amherst (Summer 2021)
+- Donald F. Towsley Graduate Scholarship, UMass Amherst (Summer 2021)
+- Top-10 B.Sc. students of Computer Engineering class of 2019 (among 177 students)
+- Rank 24, IEEEXtreme 10th 24-hour programming contest (among 1823 teams)
+- Gold Medal, 8th International Olympiad on Astronomy and Astrophysics (IOAA), 2014
+- Gold Medal, 9th National Science Olympiad (NOAA), 2013
 
