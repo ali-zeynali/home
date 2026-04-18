@@ -327,14 +327,14 @@ a:hover {
 }
 
 .project-links a {
-  color: #2563eb;
-  border-color: rgba(37, 99, 235, 0.4);
+  color: var(--primary);
+  border-color: var(--primary-strong);
   font-weight: 600;
 }
 
 .project-links a:hover {
-  color: #1d4ed8;
-  border-color: #1d4ed8;
+  color: var(--primary-strong);
+  border-color: var(--primary-strong);
 }
 
 .project-media-grid {

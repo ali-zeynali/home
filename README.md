@@ -49,6 +49,12 @@ I design robust learning and online decision-making algorithms for large-scale M
 
 <div id="publications-list" class="publications-list">
   <article class="paper-item">
+    <h3>Near-Optimal Emission-Aware Online Ride Assignment Algorithm for Peak Demand Hours</h3>
+    <p><strong>Venue:</strong> Under review · <a href="https://ali-zeynali.github.io/LARA.pdf">PDF</a></p>
+    <p class="paper-authors">Mahsa Sahebdel, Ali Zeynali, Noman Bashir, Ramesh Sitaraman, Mohammad Hajiesmaili</p>
+  </article>
+
+  <article class="paper-item">
     <h3>Smoothed Online Optimization for Target Tracking: Robust and Learning-Augmented Algorithms</h3>
     <p><strong>Venue:</strong> ALT 2026 · <a href="https://ali-zeynali.github.io/SOOTT.pdf">PDF</a></p>
     <p class="paper-authors">Ali Zeynali, Mahsa Sahebdel, Qingong Liu, Ramesh Sitaraman, Mohammad Hajiesmaili</p>
@@ -58,6 +64,12 @@ I design robust learning and online decision-making algorithms for large-scale M
     <h3>LEAD: Towards Learning-Based Equity-Aware Decarbonization in Ridesharing Platforms</h3>
     <p><strong>Venue:</strong> ACM FAccT 2025 · <a href="https://ali-zeynali.github.io/LEAD.pdf">PDF</a></p>
     <p class="paper-authors">Mahsa Sahebdel, Ali Zeynali, Noman Bashir, Prashant Shenoy, Mohammad Hajiesmaili</p>
+  </article>
+
+  <article class="paper-item">
+    <h3>BOLA360: Near-optimal View and Bitrate Adaptation for 360-degree Video Streaming - Journal Version</h3>
+    <p><strong>Venue:</strong> ACM TOMM · <a href="https://ali-zeynali.github.io/BOLA360_v2.pdf">PDF</a></p>
+    <p class="paper-authors">Ali Zeynali, Mahsa Sahebdel, Mohammad Hajiesmaili, Ramesh Sitaraman</p>
   </article>
 
   <article class="paper-item">
@@ -76,12 +88,6 @@ I design robust learning and online decision-making algorithms for large-scale M
     <h3>A Holistic Approach for Equity-aware Carbon Reduction of Ridesharing Platforms</h3>
     <p><strong>Venue:</strong> ACM e-Energy 2024 · <a href="https://ali-zeynali.github.io/AHolisticApproach-CarbonEmission.pdf">PDF</a></p>
     <p class="paper-authors">Mahsa Sahebdel, Ali Zeynali, Noman Bashir, Prashant Shenoy, Mohammad Hajiesmaili</p>
-  </article>
-
-  <article class="paper-item">
-    <h3>Near-Optimal Emission-Aware Online Ride Assignment Algorithm for Peak Demand Hours</h3>
-    <p><strong>Venue:</strong> Under review · <a href="https://ali-zeynali.github.io/LARA.pdf">PDF</a></p>
-    <p class="paper-authors">Mahsa Sahebdel, Ali Zeynali, Noman Bashir, Ramesh Sitaraman, Mohammad Hajiesmaili</p>
   </article>
 
   <article class="paper-item">
