@@ -119,40 +119,62 @@ I design robust learning and online decision-making algorithms for large-scale M
 
 ## Projects
 
-- **Robust and Unbiased Self-Play Strategy for Fine-Tuning Large Language Models**  
-  Framework for fine-tuning LLMs on imbalanced datasets.
+<div class="project-grid">
+  <article class="project-card">
+    <h3>Robust and Unbiased Self-Play Strategy for Fine-Tuning Large Language Models</h3>
+    <p>Framework for fine-tuning large language models on imbalanced datasets with robust self-play strategies.</p>
+    <div class="project-links">
+      <span class="project-chip">LLM Fine-Tuning</span>
+      <span class="project-chip">Robust Learning</span>
+    </div>
+  </article>
 
-- **VSE360: Online 360-degree video streaming simulation environment** [[GitHub]](https://github.com/ali-zeynali/VSE360)  
-  Fully simulated Python environment for evaluating 360-degree ABR algorithms.
+  <article class="project-card project-card-media">
+    <h3>VSE360: Online 360-degree video streaming simulation environment</h3>
+    <p>Fully simulated Python environment for evaluating 360-degree ABR algorithms.</p>
+    <div class="project-links">
+      <a href="https://github.com/ali-zeynali/VSE360">GitHub</a>
+    </div>
+    <div class="project-media-grid two-up">
+      <img src="files/VSE/360_1.png" alt="VSE360 viewport example" />
+      <img src="files/VSE/bandwidth1.png" alt="VSE360 bandwidth trace" />
+    </div>
+  </article>
 
-<p align="center">
-  <img src="files/VSE/360_1.png" width="350" alt="VSE360 viewport example" />
-  <img src="files/VSE/bandwidth1.png" width="350" alt="VSE360 bandwidth trace" />
-</p>
+  <article class="project-card project-card-media">
+    <h3>AI-Generated Music using Deep Learning + LSTM</h3>
+    <p>Music generation pipeline based on deep sequence models and LSTM architectures.</p>
+    <div class="project-links">
+      <a href="https://github.com/ali-zeynali/MusicGen">GitHub</a>
+    </div>
+    <div class="project-media-grid">
+      <img src="files/LSTM/LSTM_Cell.png" alt="LSTM cell" />
+    </div>
+  </article>
 
-- **AI-Generated Music using Deep Learning + LSTM** [[GitHub]](https://github.com/ali-zeynali/MusicGen)  
-  Music generation with deep sequence models.
+  <article class="project-card project-card-media">
+    <h3>AI-Generated Short Stories using Bidirectional LSTM</h3>
+    <p>Tiny-story generation model powered by deep bidirectional LSTM networks.</p>
+    <div class="project-links">
+      <a href="https://github.com/ali-zeynali/ShortStoryGenerator">GitHub</a>
+    </div>
+    <div class="project-media-grid">
+      <img src="files/LSTM/Bi-LSTM.png" alt="Bi-LSTM architecture" />
+    </div>
+  </article>
 
-<p align="center">
-  <img src="files/LSTM/LSTM_Cell.png" width="350" alt="LSTM cell" />
-</p>
-
-- **AI-Generated Short Stories using Bidirectional LSTM** [[GitHub]](https://github.com/ali-zeynali/ShortStoryGenerator)  
-  Tiny-story generation with deep LSTM architectures.
-
-<p align="center">
-  <img src="files/LSTM/Bi-LSTM.png" width="350" alt="Bi-LSTM architecture" />
-</p>
-
-- **ZeySed: Deep neural networks for leaf classification** [[GitHub]](https://github.com/ali-zeynali/ZeySed)  
-  Image classification pipeline for plant leaves.
-
-<p align="center">
-  <img src="files/ZeySed/classes.png" width="500" alt="Leaf classes" />
-</p>
-<p align="center">
-  <img src="files/ZeySed/model.png" width="500" alt="Model architecture" />
-</p>
+  <article class="project-card project-card-media project-card-wide">
+    <h3>ZeySed: Deep neural networks for leaf classification</h3>
+    <p>Image classification pipeline for plant leaf datasets using deep neural networks.</p>
+    <div class="project-links">
+      <a href="https://github.com/ali-zeynali/ZeySed">GitHub</a>
+    </div>
+    <div class="project-media-grid two-up">
+      <img src="files/ZeySed/classes.png" alt="Leaf classes" />
+      <img src="files/ZeySed/model.png" alt="Model architecture" />
+    </div>
+  </article>
+</div>
 
 ## Honors and Awards
 
@@ -164,6 +186,3 @@ I design robust learning and online decision-making algorithms for large-scale M
 - Gold Medal, 8th International Olympiad on Astronomy and Astrophysics (IOAA), 2014
 - Gold Medal, 9th National Science Olympiad (NOAA), 2013
 
-## Contact
-
-- Email: <span class="email-obf">a + [last name] at umass dot edu</span>
