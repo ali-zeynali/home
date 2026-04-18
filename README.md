@@ -135,7 +135,7 @@ I design robust learning and online decision-making algorithms for large-scale M
     <div class="project-links">
       <a href="https://github.com/ali-zeynali/VSE360">GitHub</a>
     </div>
-    <div class="project-media-grid two-up">
+    <div class="project-media-grid">
       <img src="files/VSE/360_1.png" alt="VSE360 viewport example" />
       <img src="files/VSE/bandwidth1.png" alt="VSE360 bandwidth trace" />
     </div>
