@@ -169,7 +169,7 @@ I design robust learning and online decision-making algorithms for large-scale M
     <div class="project-links">
       <a href="https://github.com/ali-zeynali/ZeySed">GitHub</a>
     </div>
-    <div class="project-media-grid two-up">
+    <div class="project-media-grid">
       <img src="files/ZeySed/classes.png" alt="Leaf classes" />
       <img src="files/ZeySed/model.png" alt="Model architecture" />
     </div>
