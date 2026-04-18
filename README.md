@@ -68,7 +68,7 @@ I design robust learning and online decision-making algorithms for large-scale M
 
   <article class="paper-item">
     <h3>BOLA360: Near-optimal View and Bitrate Adaptation for 360-degree Video Streaming - Journal Version</h3>
-    <p><strong>Venue:</strong> ACM TOMM · <a href="https://ali-zeynali.github.io/BOLA360_v2.pdf">PDF</a></p>
+    <p><strong>Venue:</strong> ACM TOMM 2025 · <a href="https://ali-zeynali.github.io/BOLA360_v2.pdf">PDF</a></p>
     <p class="paper-authors">Ali Zeynali, Mahsa Sahebdel, Mohammad Hajiesmaili, Ramesh Sitaraman</p>
   </article>
 
