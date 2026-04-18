@@ -133,6 +133,8 @@ I design robust learning and online decision-making algorithms for large-scale M
     <h3>VSE360: Online 360-degree video streaming simulation environment</h3>
     <p>Fully simulated Python environment for evaluating 360-degree ABR algorithms.</p>
     <div class="project-links">
+      <span class="project-chip">Video Streaming</span>
+      <span class="project-chip">Robust Learning</span>
       <a href="https://github.com/ali-zeynali/VSE360">GitHub</a>
     </div>
     <div class="project-media-grid">
@@ -145,6 +147,9 @@ I design robust learning and online decision-making algorithms for large-scale M
     <h3>AI-Generated Music using Deep Learning + LSTM</h3>
     <p>Music generation pipeline based on deep sequence models and LSTM architectures.</p>
     <div class="project-links">
+      <span class="project-chip">LSTM</span>
+      <span class="project-chip">AI Training</span>
+      <span class="project-chip">Time Series</span>
       <a href="https://github.com/ali-zeynali/MusicGen">GitHub</a>
     </div>
     <div class="project-media-grid">
@@ -156,6 +161,9 @@ I design robust learning and online decision-making algorithms for large-scale M
     <h3>AI-Generated Short Stories using Bidirectional LSTM</h3>
     <p>Tiny-story generation model powered by deep bidirectional LSTM networks.</p>
     <div class="project-links">
+      <span class="project-chip">Bi-LSTM</span>
+      <span class="project-chip">AI Training</span>
+      <span class="project-chip">Time Series</span>
       <a href="https://github.com/ali-zeynali/ShortStoryGenerator">GitHub</a>
     </div>
     <div class="project-media-grid">
@@ -167,6 +175,8 @@ I design robust learning and online decision-making algorithms for large-scale M
     <h3>ZeySed: Deep neural networks for leaf classification</h3>
     <p>Image classification pipeline for plant leaf datasets using deep neural networks.</p>
     <div class="project-links">
+      <span class="project-chip">CNN</span>
+      <span class="project-chip">Image Processing</span>
       <a href="https://github.com/ali-zeynali/ZeySed">GitHub</a>
     </div>
     <div class="project-media-grid">

@@ -312,20 +312,29 @@ a:hover {
   margin-bottom: 10px;
 }
 
-.project-links a,
-.project-chip {
+.project-chip,
+.project-links a {
   border: 1px solid var(--border);
   border-radius: 999px;
   padding: 4px 10px;
   font-size: 0.82rem;
   text-decoration: none;
-  color: var(--text);
   background: var(--chip-bg);
 }
 
+.project-chip {
+  color: var(--text);
+}
+
+.project-links a {
+  color: #2563eb;
+  border-color: rgba(37, 99, 235, 0.4);
+  font-weight: 600;
+}
+
 .project-links a:hover {
-  color: var(--primary);
-  border-color: var(--primary-strong);
+  color: #1d4ed8;
+  border-color: #1d4ed8;
 }
 
 .project-media-grid {
