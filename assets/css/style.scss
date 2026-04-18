@@ -261,14 +261,52 @@ ul li {
 }
 
 
-.company-logo {
-  width: 14px;
-  height: 14px;
-  vertical-align: text-bottom;
-  margin: 0 2px 0 4px;
-  border: none;
-  box-shadow: none;
-  border-radius: 2px;
+
+.paper-search {
+  width: 100%;
+  padding: 10px 12px;
+  border-radius: 10px;
+  border: 1px solid var(--border);
+  background: transparent;
+  color: var(--text);
+  margin: 8px 0 14px;
+}
+
+.paper-search::placeholder {
+  color: var(--muted);
+}
+
+.publications-list {
+  display: grid;
+  gap: 12px;
+}
+
+.paper-item {
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 12px 14px;
+  background: var(--card-bg);
+}
+
+.paper-item h3 {
+  margin: 0 0 6px;
+  font-size: 1.05rem;
+}
+
+.paper-item p {
+  margin: 0;
+}
+
+.paper-authors {
+  color: var(--muted);
+  margin-top: 6px !important;
+  font-size: 0.95rem;
+}
+
+.paper-search-empty {
+  color: var(--muted);
+  margin-top: 10px;
+  font-style: italic;
 }
 
 .email-obf {

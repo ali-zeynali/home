@@ -30,44 +30,92 @@ I design robust learning and online decision-making algorithms for large-scale M
 
 ## Industry Experience
 
-- **Machine Learning Data Scientist Intern**, Airbnb <img class="company-logo" src="https://cdn.simpleicons.org/airbnb/FF5A5F" alt="Airbnb logo" /> (Remote), Summer/Fall 2025  
+- **Machine Learning Data Scientist Intern**, Airbnb (Remote), Summer/Fall 2025  
   - Built a framework to detect synthetic/manipulated images.
   - Designed methods to explain fake-image detection predictions.
-- **Machine Learning Data Scientist Intern**, SiriusXM and Pandora <img class="company-logo" src="https://cdn.simpleicons.org/siriusxm/1398FF" alt="SiriusXM logo" /> (Oakland, USA), Summer 2024  
+- **Machine Learning Data Scientist Intern**, SiriusXM and Pandora (Oakland, USA), Summer 2024  
   - Built an explainability framework for search ranking relevance.
   - Improved prior model performance by up to 26%.
-- **Software Engineer Intern**, Google <img class="company-logo" src="https://cdn.simpleicons.org/google/4285F4" alt="Google logo" /> (Mountain View, USA), Spring 2022  
+- **Software Engineer Intern**, Google (Mountain View, USA), Spring 2022  
   - Improved interest-matching accuracy with geometry/depth-aware vision methods.
   - Improved over prior SOTA models by up to 50%.
-- **ML/Data Science Research Intern**, Adobe <img class="company-logo" src="https://cdn.simpleicons.org/adobe/FF0000" alt="Adobe logo" /> (San Jose, USA), Summer 2021  
+- **ML/Data Science Research Intern**, Adobe (San Jose, USA), Summer 2021  
   - Improved Adobe Liquid Mode streaming model under online/offline settings.
   - Improved quality of experience and bandwidth efficiency by up to 20%.
 
 ## Selected Publications
 
-### 2026
-- **Smoothed Online Optimization for Target Tracking: Robust and Learning-Augmented Algorithms** (ALT 2026) [[PDF]](https://ali-zeynali.github.io/SOOTT.pdf)  
-  *Ali Zeynali, Mahsa Sahebdel, Qingong Liu, Ramesh Sitaraman, Mohammad Hajiesmaili*
+<input id="paper-search" class="paper-search" type="search" placeholder="Search papers by title, venue, year, or author..." aria-label="Search publications" />
 
-### 2025
-- **LEAD: Towards Learning-Based Equity-Aware Decarbonization in Ridesharing Platforms** (ACM FAccT 2025) [[PDF]](https://ali-zeynali.github.io/LEAD.pdf)  
-  *Mahsa Sahebdel, Ali Zeynali, Noman Bashir, Prashant Shenoy, Mohammad Hajiesmaili*
+<div id="publications-list" class="publications-list">
+  <article class="paper-item">
+    <h3>Smoothed Online Optimization for Target Tracking: Robust and Learning-Augmented Algorithms</h3>
+    <p><strong>Venue:</strong> ALT 2026 · <a href="https://ali-zeynali.github.io/SOOTT.pdf">PDF</a></p>
+    <p class="paper-authors">Ali Zeynali, Mahsa Sahebdel, Qingong Liu, Ramesh Sitaraman, Mohammad Hajiesmaili</p>
+  </article>
 
-### 2024
-- **Robust Learning-Augmented Dictionaries** (ICML 2024) [[PDF]](https://ali-zeynali.github.io/RobustSL.pdf)  
-  *Ali Zeynali, Shahin Kamali, Mohammad Hajiesmaili*
-- **BOLA360: Near-optimal View and Bitrate Adaptation for 360-degree Video Streaming** (ACM MMSys 2024) [[PDF]](https://ali-zeynali.github.io/BOLA360_v2.pdf)  
-  *Ali Zeynali, Mohammad Hajiesmaili, Ramesh Sitaraman*
-- **A Holistic Approach for Equity-aware Carbon Reduction of Ridesharing Platforms** (ACM e-Energy 2024) [[PDF]](https://ali-zeynali.github.io/AHolisticApproach-CarbonEmission.pdf)  
-  *Mahsa Sahebdel, Ali Zeynali, Noman Bashir, Prashant Shenoy, Mohammad Hajiesmaili*
+  <article class="paper-item">
+    <h3>LEAD: Towards Learning-Based Equity-Aware Decarbonization in Ridesharing Platforms</h3>
+    <p><strong>Venue:</strong> ACM FAccT 2025 · <a href="https://ali-zeynali.github.io/LEAD.pdf">PDF</a></p>
+    <p class="paper-authors">Mahsa Sahebdel, Ali Zeynali, Noman Bashir, Prashant Shenoy, Mohammad Hajiesmaili</p>
+  </article>
 
-### Earlier
-- **Near-Optimal Emission-Aware Online Ride Assignment Algorithm for Peak Demand Hours** (Under review) [[PDF]](https://ali-zeynali.github.io/LARA.pdf)
-- **Data-driven Algorithms for Reducing the Carbon Footprint of Ride-sharing Ecosystems** (ACM e-Energy 2023) [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3599733.3606300)
-- **SemEval-2022 Task 8: Multilingual News Article Similarity** (SemEval 2022) [[PDF]](https://ali-zeynali.github.io/SemEval_2022Task8_MultilingualNewsArticleSimilarity.pdf)
-- **Competitive Algorithms for Online Multidimensional Knapsack Problems** (ACM SIGMETRICS 2022) [[PDF]](https://ali-zeynali.github.io/CompetitiveAlgorithmsforOnlineMultidimensionalKnapsackProblems.pdf)
-- **Data-driven Competitive Algorithms for Online Knapsack and Set Cover** (AAAI 2021) [[PDF]](https://ali-zeynali.github.io/DatadrivenCompetitiveAlgorithmsforOnlineKnapsackandSetCover.pdf)
-- **Competitive Algorithms for the Online Multiple Knapsack Problem with Application to Electric Vehicle Charging** (ACM SIGMETRICS 2021) [[PDF]](https://ali-zeynali.github.io/CompetitiveAlgorithmsfortheOnlineMultipleKnapsack.pdf)
+  <article class="paper-item">
+    <h3>Robust Learning-Augmented Dictionaries</h3>
+    <p><strong>Venue:</strong> ICML 2024 · <a href="https://ali-zeynali.github.io/RobustSL.pdf">PDF</a></p>
+    <p class="paper-authors">Ali Zeynali, Shahin Kamali, Mohammad Hajiesmaili</p>
+  </article>
+
+  <article class="paper-item">
+    <h3>BOLA360: Near-optimal View and Bitrate Adaptation for 360-degree Video Streaming</h3>
+    <p><strong>Venue:</strong> ACM MMSys 2024 · <a href="https://ali-zeynali.github.io/BOLA360_v2.pdf">PDF</a></p>
+    <p class="paper-authors">Ali Zeynali, Mohammad Hajiesmaili, Ramesh Sitaraman</p>
+  </article>
+
+  <article class="paper-item">
+    <h3>A Holistic Approach for Equity-aware Carbon Reduction of Ridesharing Platforms</h3>
+    <p><strong>Venue:</strong> ACM e-Energy 2024 · <a href="https://ali-zeynali.github.io/AHolisticApproach-CarbonEmission.pdf">PDF</a></p>
+    <p class="paper-authors">Mahsa Sahebdel, Ali Zeynali, Noman Bashir, Prashant Shenoy, Mohammad Hajiesmaili</p>
+  </article>
+
+  <article class="paper-item">
+    <h3>Near-Optimal Emission-Aware Online Ride Assignment Algorithm for Peak Demand Hours</h3>
+    <p><strong>Venue:</strong> Under review · <a href="https://ali-zeynali.github.io/LARA.pdf">PDF</a></p>
+    <p class="paper-authors">Mahsa Sahebdel, Ali Zeynali, Noman Bashir, Ramesh Sitaraman, Mohammad Hajiesmaili</p>
+  </article>
+
+  <article class="paper-item">
+    <h3>Data-driven Algorithms for Reducing the Carbon Footprint of Ride-sharing Ecosystems</h3>
+    <p><strong>Venue:</strong> ACM e-Energy 2023 · <a href="https://dl.acm.org/doi/pdf/10.1145/3599733.3606300">PDF</a></p>
+    <p class="paper-authors">Mahsa Sahebdel, Ali Zeynali, Noman Bashir, Mohammad Hajiesmaili, Jimi Oke</p>
+  </article>
+
+  <article class="paper-item">
+    <h3>SemEval-2022 Task 8: Multilingual News Article Similarity</h3>
+    <p><strong>Venue:</strong> SemEval 2022 · <a href="https://ali-zeynali.github.io/SemEval_2022Task8_MultilingualNewsArticleSimilarity.pdf">PDF</a></p>
+    <p class="paper-authors">Xi Chen, Ali Zeynali, Chico Camargo, Fabian Flock, Devin Gaffney, Przemyslaw Grabowicz, Scott Hale, David Jurgens, Mattia Samory</p>
+  </article>
+
+  <article class="paper-item">
+    <h3>Competitive Algorithms for Online Multidimensional Knapsack Problems</h3>
+    <p><strong>Venue:</strong> ACM SIGMETRICS 2022 · <a href="https://ali-zeynali.github.io/CompetitiveAlgorithmsforOnlineMultidimensionalKnapsackProblems.pdf">PDF</a></p>
+    <p class="paper-authors">Lin Yang, Ali Zeynali, Mohammad Hajiesmaili, Ramesh Sitaraman, Don Towsley</p>
+  </article>
+
+  <article class="paper-item">
+    <h3>Data-driven Competitive Algorithms for Online Knapsack and Set Cover</h3>
+    <p><strong>Venue:</strong> AAAI 2021 · <a href="https://ali-zeynali.github.io/DatadrivenCompetitiveAlgorithmsforOnlineKnapsackandSetCover.pdf">PDF</a></p>
+    <p class="paper-authors">Ali Zeynali, Bo Sun, Mohammad Hajiesmaili, Adam Wierman</p>
+  </article>
+
+  <article class="paper-item">
+    <h3>Competitive Algorithms for the Online Multiple Knapsack Problem with Application to Electric Vehicle Charging</h3>
+    <p><strong>Venue:</strong> ACM SIGMETRICS 2021 · <a href="https://ali-zeynali.github.io/CompetitiveAlgorithmsfortheOnlineMultipleKnapsack.pdf">PDF</a></p>
+    <p class="paper-authors">Bo Sun, Ali Zeynali, Tongxin Li, Mohammad Hajiesmaili, Adam Wierman, Danny H.K. Tsang</p>
+  </article>
+</div>
+
+<p id="paper-search-empty" class="paper-search-empty" hidden>No papers matched your search.</p>
 
 ## Projects
 

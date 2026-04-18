@@ -112,6 +112,28 @@
             localStorage.setItem(storageKey, next);
           });
         }
+
+        const paperSearch = document.getElementById('paper-search');
+        const paperItems = Array.from(document.querySelectorAll('.paper-item'));
+        const emptyState = document.getElementById('paper-search-empty');
+
+        if (paperSearch && paperItems.length > 0) {
+          paperSearch.addEventListener('input', function () {
+            const query = paperSearch.value.trim().toLowerCase();
+            let visibleCount = 0;
+
+            paperItems.forEach(function (item) {
+              const text = item.textContent.toLowerCase();
+              const match = query === '' || text.includes(query);
+              item.hidden = !match;
+              if (match) visibleCount += 1;
+            });
+
+            if (emptyState) {
+              emptyState.hidden = visibleCount !== 0;
+            }
+          });
+        }
       })();
     </script>
     {% if site.google_analytics %}
